@@ -1,5 +1,0 @@
-INDEX VERSION 1.134+C:\Users\dense\Desktop\java\demo-dao-jdbc\.metadata\.plugins\org.eclipse.jdt.core
-3996080846.index
-1865797976.index
-1854212954.index
-1263180775.index
